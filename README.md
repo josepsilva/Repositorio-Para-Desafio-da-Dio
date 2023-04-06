@@ -1,4 +1,4 @@
-# dio_defasio_repositorio
+# Dio_Defasio_Repositorio
 Repositorio criado para o desafio de projeto.
 
 ## Links Úteis
